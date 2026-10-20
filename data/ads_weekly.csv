@@ -1,0 +1,73 @@
+week_start,campaign_type,campaign,target,impressions,clicks,spend_usd,orders,ad_sales_usd
+2026-08-24,SP,SP_Brand,hanbit red ginseng,24716,143,187.53,29,1139.25
+2026-08-24,SP,SP_Generic,korean red ginseng,42807,201,449.8,38,1492.92
+2026-08-24,SP,SP_Generic,ginseng supplement,37549,302,371.1,20,783.39
+2026-08-24,SP,SP_Generic,energy supplement for women,14235,119,223.07,10,372.78
+2026-08-24,SP,SP_Competitor,competitor asin B0XXXX01,23445,95,201.55,9,333.99
+2026-08-24,SB,SB_Brand_Video,red ginseng extract,44242,232,327.52,31,1201.84
+2026-08-24,SB,SB_Category,natural energy booster,55093,263,272.92,14,561.18
+2026-08-24,SD,SD_Retargeting,viewed not purchased 30d,10673,105,220.85,24,920.05
+2026-08-24,SD,SD_Audience,wellness in-market audience,14733,124,181.96,8,302.95
+2026-08-31,SP,SP_Brand,hanbit red ginseng,10442,90,197.79,40,1553.73
+2026-08-31,SP,SP_Generic,korean red ginseng,56848,359,445.78,29,1130.85
+2026-08-31,SP,SP_Generic,ginseng supplement,50773,316,332.1,20,771.16
+2026-08-31,SP,SP_Generic,energy supplement for women,32769,186,270.58,12,486.31
+2026-08-31,SP,SP_Competitor,competitor asin B0XXXX01,12284,109,204.62,10,384.58
+2026-08-31,SB,SB_Brand_Video,red ginseng extract,33543,236,270.4,26,1003.63
+2026-08-31,SB,SB_Category,natural energy booster,16778,159,275.25,16,639.45
+2026-08-31,SD,SD_Retargeting,viewed not purchased 30d,41581,177,220.57,25,979.69
+2026-08-31,SD,SD_Audience,wellness in-market audience,12128,140,170.03,6,215.93
+2026-09-07,SP,SP_Brand,hanbit red ginseng,14794,106,200.32,36,1391.06
+2026-09-07,SP,SP_Generic,korean red ginseng,60941,364,472.23,37,1439.83
+2026-09-07,SP,SP_Generic,ginseng supplement,19495,218,387.0,23,910.7
+2026-09-07,SP,SP_Generic,energy supplement for women,13001,105,252.15,11,425.3
+2026-09-07,SP,SP_Competitor,competitor asin B0XXXX01,20067,181,193.0,6,252.86
+2026-09-07,SB,SB_Brand_Video,red ginseng extract,46505,328,326.29,28,1074.83
+2026-09-07,SB,SB_Category,natural energy booster,10748,117,275.72,16,613.65
+2026-09-07,SD,SD_Retargeting,viewed not purchased 30d,10728,89,170.69,19,743.04
+2026-09-07,SD,SD_Audience,wellness in-market audience,20995,157,167.41,6,247.59
+2026-09-14,SP,SP_Brand,hanbit red ginseng,13099,80,177.5,40,1572.92
+2026-09-14,SP,SP_Generic,korean red ginseng,16873,185,420.07,29,1134.84
+2026-09-14,SP,SP_Generic,ginseng supplement,37720,197,357.02,25,979.85
+2026-09-14,SP,SP_Generic,energy supplement for women,16499,136,280.48,14,541.3
+2026-09-14,SP,SP_Competitor,competitor asin B0XXXX01,17581,201,187.04,7,278.21
+2026-09-14,SB,SB_Brand_Video,red ginseng extract,54891,245,334.08,33,1286.58
+2026-09-14,SB,SB_Category,natural energy booster,32962,260,267.22,18,692.98
+2026-09-14,SD,SD_Retargeting,viewed not purchased 30d,16908,85,174.15,20,769.23
+2026-09-14,SD,SD_Audience,wellness in-market audience,12569,138,178.67,7,255.11
+2026-09-21,SP,SP_Brand,hanbit red ginseng,10468,103,175.85,30,1166.83
+2026-09-21,SP,SP_Generic,korean red ginseng,17393,160,382.35,28,1096.0
+2026-09-21,SP,SP_Generic,ginseng supplement,59508,345,372.94,25,976.47
+2026-09-21,SP,SP_Generic,energy supplement for women,34538,199,247.37,12,486.61
+2026-09-21,SP,SP_Competitor,competitor asin B0XXXX01,13697,154,191.69,8,322.78
+2026-09-21,SB,SB_Brand_Video,red ginseng extract,28230,264,332.37,24,936.07
+2026-09-21,SB,SB_Category,natural energy booster,11087,95,219.43,11,411.74
+2026-09-21,SD,SD_Retargeting,viewed not purchased 30d,17019,94,198.36,23,883.77
+2026-09-21,SD,SD_Audience,wellness in-market audience,13314,103,158.23,6,215.42
+2026-09-28,SP,SP_Brand,hanbit red ginseng,16920,81,192.37,40,1542.83
+2026-09-28,SP,SP_Generic,korean red ginseng,31056,186,407.73,30,1182.72
+2026-09-28,SP,SP_Generic,ginseng supplement,36125,225,344.68,23,877.76
+2026-09-28,SP,SP_Generic,energy supplement for women,25434,277,432.87,11,432.77
+2026-09-28,SP,SP_Competitor,competitor asin B0XXXX01,8701,93,223.32,8,293.08
+2026-09-28,SB,SB_Brand_Video,red ginseng extract,29453,157,342.21,35,1361.95
+2026-09-28,SB,SB_Category,natural energy booster,35578,159,238.97,12,465.53
+2026-09-28,SD,SD_Retargeting,viewed not purchased 30d,14505,149,192.74,24,920.61
+2026-09-28,SD,SD_Audience,wellness in-market audience,6353,76,177.57,6,240.94
+2026-10-05,SP,SP_Brand,hanbit red ginseng,25417,162,183.01,38,1492.5
+2026-10-05,SP,SP_Generic,korean red ginseng,28045,280,479.06,39,1532.11
+2026-10-05,SP,SP_Generic,ginseng supplement,18389,199,329.52,23,885.59
+2026-10-05,SP,SP_Generic,energy supplement for women,75092,412,419.9,11,425.19
+2026-10-05,SP,SP_Competitor,competitor asin B0XXXX01,36499,181,226.27,10,387.41
+2026-10-05,SB,SB_Brand_Video,red ginseng extract,20882,187,335.13,35,1382.08
+2026-10-05,SB,SB_Category,natural energy booster,12110,139,234.18,14,532.45
+2026-10-05,SD,SD_Retargeting,viewed not purchased 30d,20234,145,182.26,20,792.07
+2026-10-05,SD,SD_Audience,wellness in-market audience,13779,138,189.27,6,243.78
+2026-10-12,SP,SP_Brand,hanbit red ginseng,5431,65,156.92,30,1157.24
+2026-10-12,SP,SP_Generic,korean red ginseng,24594,282,366.23,26,1005.05
+2026-10-12,SP,SP_Generic,ginseng supplement,55302,291,423.42,33,1267.9
+2026-10-12,SP,SP_Generic,energy supplement for women,23786,283,514.86,12,476.04
+2026-10-12,SP,SP_Competitor,competitor asin B0XXXX01,16888,108,230.16,0,0.0
+2026-10-12,SB,SB_Brand_Video,red ginseng extract,58090,286,314.7,44,1698.11
+2026-10-12,SB,SB_Category,natural energy booster,18329,162,211.71,12,475.67
+2026-10-12,SD,SD_Retargeting,viewed not purchased 30d,18816,115,213.06,19,751.19
+2026-10-12,SD,SD_Audience,wellness in-market audience,17517,83,179.38,7,291.85

@@ -1,0 +1,4 @@
+reports/metrics_summary.json
+__pycache__/
+.DS_Store
+설계서_및_실행가이드.md
